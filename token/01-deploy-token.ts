@@ -7,7 +7,7 @@ async function main() {
   const initialSupplyTo   = new Address("0:577de8eb7386561903ce19bfd75175f927c2679c676c7968ce37daaeb32e6315");
   const rootOwner         = new Address("0:577de8eb7386561903ce19bfd75175f927c2679c676c7968ce37daaeb32e6315");
   const name              = "LB Test Token";
-  const symbol            = "LTT";
+  const symbol            = "LBT";
   const initialSupply     = 1500000;
   const decimals          = 18;
   const disableMint       = false;
